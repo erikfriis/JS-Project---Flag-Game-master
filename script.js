@@ -387,7 +387,7 @@ function showWelcomeScreen() {
 
   <li><div class="emoji">✅</div><div>4 options but 1 correct answer</div></li>
   <li><div class="emoji">🚀</div><div>Answer fast to get more points</div></li>
-  <li><div class="emoji">🏆</div><div>Chance to win a steaming cup of coffee for having the best score in the room!</div></li>
+  <li><div class="emoji">🏆</div><div>Chance to win a meet and greet with the pilot</div></li>
 </ul>
 </div>
   `;
