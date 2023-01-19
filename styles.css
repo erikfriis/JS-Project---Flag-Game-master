@@ -183,6 +183,10 @@ h2 {
 	right: 8px;
 }
 
+.star-btn {
+	margin-bottom: 5rem;
+}
+
 #options-container {
 	padding-bottom: 2rem;
 	width: 100%;

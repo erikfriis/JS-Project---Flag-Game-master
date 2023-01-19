@@ -396,6 +396,7 @@ function showWelcomeScreen() {
 	const startButtonEl = document.createElement("button");
 	startButtonEl.id = "startButton";
 	startButtonEl.innerText = "Start Game";
+	startButtonEl.classList.add("star-btn");
 	startButtonEl.addEventListener("click", () => {
 		startGame();
 	});
